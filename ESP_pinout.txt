@@ -1,0 +1,9 @@
+TX = Tx
+RX = RX
+GND = GND
+3v3 = 3.3v
+RST = reset (through resistors)
+EN = 3.3v
+IO0 = gnd when programming (normally open)
+IO2 = open
+
